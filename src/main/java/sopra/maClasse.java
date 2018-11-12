@@ -6,5 +6,5 @@ public class maClasse {
 		// TODO Auto-generated method stub
 
 	}
-
+	private String test="coucou";
 }
